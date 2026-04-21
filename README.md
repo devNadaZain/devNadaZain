@@ -7,7 +7,7 @@
 <div align="center">
   <h1> Nada Zain</h1>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=06b6d4&center=true&vCenter=true&width=450&lines=Software+Engineer+%7C+Flutter+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=06b6d4&center=true&vCenter=true&width=450&lines=Software+Testing+Enginner%7C;" alt="Typing SVG" />
   </p>
   
 </div>
